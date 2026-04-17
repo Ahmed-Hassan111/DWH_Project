@@ -5,7 +5,6 @@ Library management struggles to make strategic decisions despite having extensiv
 
 1. **Which book categories are the most profitable?**
    - 📊 *Power BI Visual:* `Book Sales Distribution`
-   - 🧊 *SSAS Cube:* `Most_Profitable_Book_Categories`
    - 📖 *Category Logic:* Derived from `num_pages`:
      - `Large Book` → ≥ 500 pages
      - `Medium Book` → ≥ 200 pages
@@ -13,15 +12,12 @@ Library management struggles to make strategic decisions despite having extensiv
 
 2. **Who are the (VIP) customers?**
    - 📊 *Power BI Visual:* `VIP Customers`
-   - 🧊 *SSAS Cube:* `VIP_Customers`
 
 3. **What are the annual sales trends?**
    - 📊 *Power BI Visual:* `Annual Sales Trend (2020–2025)`
-   - 📈 *Analysis:* Year-over-Year growth, seasonal patterns, and revenue forecasting.
 
 4. **Which geographical areas have the highest demand?**
    - 📊 *Power BI Visual:* `Top Demand Areas`
-   - 🧊 *SSAS Cube:* `geographical_analysis`
 
 ## 🏗️ Solution Architecture
 End-to-End Data Engineering Pipeline:

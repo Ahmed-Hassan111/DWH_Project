@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Most_Profitable_Book_Categories.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|solutionrelative:Gravity_Books_Cubes\\Most_Profitable_Book_Categories.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\geographical_analysis.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|solutionrelative:Gravity_Books_Cubes\\geographical_analysis.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\GravityBooks_DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|solutionrelative:Gravity_Books_Cubes\\GravityBooks_DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Full_Cube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|solutionrelative:Gravity_Books_Cubes\\Full_Cube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\VIP_Customers.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|solutionrelative:Gravity_Books_Cubes\\VIP_Customers.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\GravityBooks_DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|solutionrelative:Gravity_Books_Cubes\\GravityBooks_DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Dim Order Status.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|solutionrelative:Gravity_Books_Cubes\\Dim Order Status.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Dim Location.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|solutionrelative:Gravity_Books_Cubes\\Dim Location.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Dim Book.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|solutionrelative:Gravity_Books_Cubes\\Dim Book.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|solutionrelative:Gravity_Books_Cubes\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Dim Shipping.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|solutionrelative:Gravity_Books_Cubes\\Dim Shipping.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{E23A201E-CFE4-B6BC-1ECD-B3605B516069}|Gravity_Books_Cubes\\Gravity_Books_Cubes.dwproj|solutionrelative:Gravity_Books_Cubes\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Shipping_Delays.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gravity_Books_Cubes\\Shipping_Delays.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Full_Cube.cube [Design]",
+              "DocumentMoniker": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Full_Cube.cube",
+              "RelativeDocumentMoniker": "Gravity_Books_Cubes\\Full_Cube.cube",
+              "ToolTip": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Full_Cube.cube [Design]",
+              "RelativeToolTip": "Gravity_Books_Cubes\\Full_Cube.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-17T08:11:54.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VIP_Customers.cube [Design]",
+              "DocumentMoniker": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\VIP_Customers.cube",
+              "RelativeDocumentMoniker": "Gravity_Books_Cubes\\VIP_Customers.cube",
+              "ToolTip": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\VIP_Customers.cube [Design]",
+              "RelativeToolTip": "Gravity_Books_Cubes\\VIP_Customers.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-16T23:16:05.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Most_Profitable_Book_Categories.cube [Design]",
+              "DocumentMoniker": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Most_Profitable_Book_Categories.cube",
+              "RelativeDocumentMoniker": "Gravity_Books_Cubes\\Most_Profitable_Book_Categories.cube",
+              "ToolTip": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Most_Profitable_Book_Categories.cube [Design]",
+              "RelativeToolTip": "Gravity_Books_Cubes\\Most_Profitable_Book_Categories.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-16T18:09:29.823Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Shipping_Delays.cube",
+              "DocumentMoniker": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Shipping_Delays.cube",
+              "RelativeDocumentMoniker": "Gravity_Books_Cubes\\Shipping_Delays.cube",
+              "ToolTip": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Shipping_Delays.cube",
+              "RelativeToolTip": "Gravity_Books_Cubes\\Shipping_Delays.cube",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-16T20:53:46.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "geographical_analysis.cube [Design]",
+              "DocumentMoniker": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\geographical_analysis.cube",
+              "RelativeDocumentMoniker": "Gravity_Books_Cubes\\geographical_analysis.cube",
+              "ToolTip": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\geographical_analysis.cube [Design]",
+              "RelativeToolTip": "Gravity_Books_Cubes\\geographical_analysis.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-15T12:54:06.138Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GravityBooks_DW.cube [Design]",
+              "DocumentMoniker": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\GravityBooks_DW.cube",
+              "RelativeDocumentMoniker": "Gravity_Books_Cubes\\GravityBooks_DW.cube",
+              "ToolTip": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\GravityBooks_DW.cube [Design]",
+              "RelativeToolTip": "Gravity_Books_Cubes\\GravityBooks_DW.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-14T15:11:53.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GravityBooks_DW.dsv [Design]",
+              "DocumentMoniker": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\GravityBooks_DW.dsv",
+              "RelativeDocumentMoniker": "Gravity_Books_Cubes\\GravityBooks_DW.dsv",
+              "ToolTip": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\GravityBooks_DW.dsv [Design]",
+              "RelativeToolTip": "Gravity_Books_Cubes\\GravityBooks_DW.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-13T12:25:09.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dim Location.dim [Design]",
+              "DocumentMoniker": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Dim Location.dim",
+              "RelativeDocumentMoniker": "Gravity_Books_Cubes\\Dim Location.dim",
+              "ToolTip": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Dim Location.dim [Design]",
+              "RelativeToolTip": "Gravity_Books_Cubes\\Dim Location.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-13T13:02:10.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dim Order Status.dim [Design]",
+              "DocumentMoniker": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Dim Order Status.dim",
+              "RelativeDocumentMoniker": "Gravity_Books_Cubes\\Dim Order Status.dim",
+              "ToolTip": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Dim Order Status.dim [Design]",
+              "RelativeToolTip": "Gravity_Books_Cubes\\Dim Order Status.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-14T09:37:47.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dim Book.dim [Design]",
+              "DocumentMoniker": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Dim Book.dim",
+              "RelativeDocumentMoniker": "Gravity_Books_Cubes\\Dim Book.dim",
+              "ToolTip": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Dim Book.dim [Design]",
+              "RelativeToolTip": "Gravity_Books_Cubes\\Dim Book.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-13T13:03:09.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dim Shipping.dim [Design]",
+              "DocumentMoniker": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Dim Shipping.dim",
+              "RelativeDocumentMoniker": "Gravity_Books_Cubes\\Dim Shipping.dim",
+              "ToolTip": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Dim Shipping.dim [Design]",
+              "RelativeToolTip": "Gravity_Books_Cubes\\Dim Shipping.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-14T09:37:01.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Dim Date.dim",
+              "RelativeDocumentMoniker": "Gravity_Books_Cubes\\Dim Date.dim",
+              "ToolTip": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Dim Date.dim [Design]",
+              "RelativeToolTip": "Gravity_Books_Cubes\\Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-13T13:00:03.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dim Customer.dim [Design]",
+              "DocumentMoniker": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Dim Customer.dim",
+              "RelativeDocumentMoniker": "Gravity_Books_Cubes\\Dim Customer.dim",
+              "ToolTip": "E:\\ITI\\Data warehouse concepts and Lakehouse architecture\\project\\Gravity_Books_Cubes\\Gravity_Books_Cubes\\Dim Customer.dim [Design]",
+              "RelativeToolTip": "Gravity_Books_Cubes\\Dim Customer.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-13T13:03:37.789Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

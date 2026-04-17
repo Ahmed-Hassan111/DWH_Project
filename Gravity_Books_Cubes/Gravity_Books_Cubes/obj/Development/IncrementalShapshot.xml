@@ -1,0 +1,124 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>Gravity_Books_Cubes</Database>
+    <Server>AHMEDH</Server>
+    <ConnectionString>Data Source=AHMEDH;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>ECQ/NmVPG8ymvUNQU1Bv+ufw9ZQ=4/14/2026 5:53:42 PM4/12/2026 3:00:49 PM</TimeStamp>
+        <ID>
+          <String>Gravity Books DWH</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>a2npQgH7T0pQPL3PAmBewn1/U4I=4/17/2026 12:28:55 AM4/13/2026 2:25:05 PM</TimeStamp>
+        <ID>
+          <String>Gravity Books DW</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>fIg+x5Nxgk7WEZZGK62xfK4PM2A=4/14/2026 11:37:01 AM4/13/2026 3:00:03 PM</TimeStamp>
+        <ID>
+          <String>Dim Date</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>ETjRUTyxinTut42BBAenaKGgEvs=4/13/2026 3:02:25 PM4/13/2026 3:02:09 PM</TimeStamp>
+        <ID>
+          <String>Dim Location</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>/m21DntnUXcNWwJpKXQsv1Q3f+A=4/16/2026 2:03:37 PM4/13/2026 3:03:08 PM</TimeStamp>
+        <ID>
+          <String>Dim Book</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>7/KShO4tg0y+9qp4X3rV6kvA2B4=4/13/2026 3:03:37 PM4/13/2026 3:03:37 PM</TimeStamp>
+        <ID>
+          <String>Dim Customer</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>EysXMoyidl5SxbUga65snMefIXs=4/14/2026 11:37:28 AM4/14/2026 11:37:00 AM</TimeStamp>
+        <ID>
+          <String>Dim Shipping</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>tDpyNusBsTZcPKUrV5qW4rh8FQg=4/14/2026 11:53:17 AM4/14/2026 11:37:47 AM</TimeStamp>
+        <ID>
+          <String>Dim Order Status</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>FhIx6Ca9i1MYQR9rgxGT8wMKmf0=4/17/2026 10:11:53 AM4/14/2026 5:11:53 PM+fViXTBiB2LL5d3ZGodlLXphlpo=4/14/2026 5:11:53 PM4/14/2026 5:11:53 PM</TimeStamp>
+        <ID>
+          <String>GravityBooks_DW</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>Wsw08Ta0Mxq54+xjC8Kg7hrCyAs=4/16/2026 6:34:43 PM4/15/2026 2:54:06 PMNTTV3WjVNibn+4vKWqc/7xma1d0=4/15/2026 2:54:06 PM4/15/2026 2:54:06 PM</TimeStamp>
+        <ID>
+          <String>geographical_analysis</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>ZHF/plefyaXdJRxnecNNG5CanCM=4/16/2026 8:12:20 PM4/16/2026 8:09:29 PMZ+kspEh3uB3APUdPO1RKVqLQ23c=4/16/2026 8:09:29 PM4/16/2026 8:09:29 PM</TimeStamp>
+        <ID>
+          <String>Most_Profitable_Book_Categories</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>EBnbo5mUV2xzb0leYYhN7SKBHL0=4/17/2026 1:16:21 AM4/17/2026 1:16:04 AMIfDGOUaQ22ULb+FU2O6Ect3VFhM=4/17/2026 1:16:05 AM4/17/2026 1:16:05 AM</TimeStamp>
+        <ID>
+          <String>VIP</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>ViRDE0/9yj8f5pOQHe5Nt/0lPtw=4/17/2026 10:11:53 AM4/17/2026 10:11:53 AMnQMjHYkn71MxAnxdOGccRFB5SXo=4/17/2026 10:11:53 AM4/17/2026 10:11:53 AM</TimeStamp>
+        <ID>
+          <String>Full_Cube</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>DB3pkAQHSz8LYJEFeKQaBJF66ZY=4/12/2026 2:59:25 PM4/12/2026 2:59:25 PM</TimeStamp>
+      <ID>
+        <String>Gravity_Books_Cubes</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2026-04-17T11:14:42.466667Z</LastDeployed>
+</DeploymentSnapshot>
